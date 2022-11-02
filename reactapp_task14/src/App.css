@@ -1,0 +1,14 @@
+.mainpage {
+    text-align: center;
+    background-color: rgb(136, 132, 77);
+}
+
+h3 {
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 1;
+    margin: 6px 0 6px 10px;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+  }
